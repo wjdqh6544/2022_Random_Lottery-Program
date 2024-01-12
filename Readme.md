@@ -2,6 +2,7 @@
 
 * Python + PyQT5 활용한 랜덤 추첨 프로그램 (완성)
 * PyInstaller 활용하여 exe 파일 추출 (별도 작업 없이 실행 가능토록 함)
+* 작업기간: 2022.03 ~ 2022.07 (고3)
 
 ### Directory Item List
 - material - 프로그램 실행에 필요한 ui, 아이콘 및 폰트 파일이 저장된 디렉토리
